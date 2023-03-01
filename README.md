@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">
-  Software Developer on <a href="https://medium.com/luizalabs">@LuizaLabs</a>
+  Software Developer at <a href="https://medium.com/luizalabs">@LuizaLabs</a>
 </h2>
 
 - 👨‍💻 I am studying about Cloud Computing and Software Architecture.
