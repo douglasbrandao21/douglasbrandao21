@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="GIF" height="250px" src="https://media.tenor.com/yyi93c8CMJkAAAAC/one-piece-chopper.gif" />
+  <img alt="GIF" height="180px" src="https://media.tenor.com/yyi93c8CMJkAAAAC/one-piece-chopper.gif" />
 </p>
 
 <h2 align="center">
