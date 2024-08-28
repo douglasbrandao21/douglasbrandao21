@@ -8,12 +8,8 @@
   <img src="https://img.shields.io/badge/Education-Computer%20Science-red">
 </p>
 
-<p align="center">
-  <img alt="GIF" height="180px" src="https://media.tenor.com/yyi93c8CMJkAAAAC/one-piece-chopper.gif" />
-</p>
-
 <h2 align="center">
-  Software Developer at <a href="https://medium.com/luizalabs">@LuizaLabs</a>
+  Senior Software Developer at <a href="https://medium.com/luizalabs">@CI&T</a>
 </h2>
 
 - 👨‍💻 I am studying about Cloud Computing and Software Architecture.
