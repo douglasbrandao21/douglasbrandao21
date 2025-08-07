@@ -13,8 +13,7 @@
 </h2>
 
 - 👨‍💻 I am studying about Cloud Computing and Software Architecture.
-- 💪🏼 Computer Scientist, Sofware Engineer and passionate about solving problems.
-- ✍🏻 Sometimes I write some articles in Medium about new things I'm learning
+- 💪🏼 Computer Scientist, Sofware Engineer and passionate about solving problems
 
 
 ---
