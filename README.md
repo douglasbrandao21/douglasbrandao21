@@ -12,7 +12,7 @@
   Senior Software Developer at <a href="[https://medium.com/luizalabs](https://ciandt.com/br/pt-br/home)">@CI&T</a>
 </h2>
 
-- 👨‍💻 I am studying about Cloud Computing and Software Architecture.
+- 👨‍💻 Building robust backend solutions with Java, Spring Boot, and cloud technologies.
 - 💪🏼 Computer Scientist, Sofware Engineer and passionate about solving problems
 
 
