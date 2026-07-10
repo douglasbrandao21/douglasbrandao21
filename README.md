@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="age" src="https://img.shields.io/badge/Age-24-red">
+  <img alt="age" src="https://img.shields.io/badge/Age-27-red">
   <img src="https://img.shields.io/badge/Lives-Brazil-red">
   <img src="https://img.shields.io/badge/Education-Computer%20Science-red">
 </p>
