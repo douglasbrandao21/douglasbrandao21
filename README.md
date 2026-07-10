@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  Senior Software Developer at <a href="[https://medium.com/luizalabs](https://ciandt.com/br/pt-br/home)">@CI&T</a>
+  Senior Software Engineer
 </h2>
 
 - 👨‍💻 Building robust backend solutions with Java, Spring Boot, and cloud technologies.
